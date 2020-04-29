@@ -57,3 +57,6 @@ The Course includes all the basic concepts of Python. Python Programming Languag
 27 Python User input,
 
 28 Python String formatting,
+
+# I will upload exercise for practice soon 
+THANK YOU HAPPY LEARNING :)
